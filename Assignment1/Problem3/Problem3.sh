@@ -18,6 +18,4 @@
 
 ./../Problem2/kepcart 8.535178336776600E+00 -3.187687983153819E+01  0.0 3.105916866228580E-03  1.759704223757070E-04 0.0 90520.0 100.0 >> Pluto2D.csv
 
-./../Problem2/kepcart -2.047428140424190E+01  2.554708143571569E+01 0.0  3.596876688751664E-06  8.539012819887652E-04 0.0 27485.0 100.0 >> HaleyComet2D.csv
-
 /Applications/MATLAB_R2015a.app/bin/matlab -nodisplay -nodesktop -r "try; P3PlanetPlots.m; end; quit" > /dev/null 2>&1

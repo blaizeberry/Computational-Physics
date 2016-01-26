@@ -48,8 +48,8 @@ int main(argc, argv)
   //mstep = inputs[7]*365*24;
 
   nout = 1;
-  dt = inputs[6]/200.0;
-  mstep = inputs[7]*200;
+  dt = inputs[6]/150.0;
+  mstep = inputs[7]*150;
 
   /* now, loop performing integration */
 
