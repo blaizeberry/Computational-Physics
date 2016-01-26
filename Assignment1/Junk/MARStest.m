@@ -1,0 +1,6 @@
+plot3(MARS(:,1),MARS(:,3),MARS(:,5),MARSActual(:,1),MARSActual(:,2),MARSActual(:,3))
+title('Mars Orbit')
+xlabel('x')
+ylabel('y')
+ylabel('z')
+legend('Mars Numerical','Mars Real Data')
